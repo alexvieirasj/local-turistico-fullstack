@@ -15,7 +15,7 @@
 
 Esse projeto faz parte dos vários desafios propostos no curso feito chamado **FullStack** criado pela empresa [Rocketseat](https://rocketseat.com.br/). A ideia é construir um site para turismo, no caso em Busan na Coreia do Sul, utilizando todas as tecnologias citadas logo abaixo.
 
-![til](./public/assets/local-turistico.gif)
+![til](./assets/local-turistico.gif)
 
 ## :rocket: Tecnologias utilizadas no projeto
 
