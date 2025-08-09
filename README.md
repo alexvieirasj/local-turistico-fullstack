@@ -13,7 +13,7 @@
 
 ## 💻 Detalhes do projeto
 
-Esse projeto faz parte dos vários desafios propostos no curso feito chamado **FullStack** criado pela empresa [Rocketseat](https://rocketseat.com.br/). A ideia é construir um site para turismo, no caso em Busan na Coreia do Sul, utilizando todas as tecnologias citadas logo abaixo.
+Esse projeto faz parte dos <*>desafios* do curso **FullStack** da [Rocketseat](https://rocketseat.com.br/). O desafio consiste em desenvolver um site para turismo, focado na cidade de Busan, na Coreia do Sul. O design foi baseado no projeto entregue via Figma, usado como base para construir a aplicação usando as tecnologias indicadas durante o curso.
 
 <h1 align="center">
     <img alt="GIF Projeto" title="GIF do Projeto" src="./assets/local-turistico-busan.gif" height="550"/>
