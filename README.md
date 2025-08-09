@@ -15,7 +15,7 @@
 
 Esse projeto faz parte dos vários desafios propostos no curso feito chamado **FullStack** criado pela empresa [Rocketseat](https://rocketseat.com.br/). A ideia é construir um site para turismo, no caso em Busan na Coreia do Sul, utilizando todas as tecnologias citadas logo abaixo.
 
-![til](./public/assets/demonstracao-sistema.gif)
+![til](./public/assets/local-turistico.gif)
 
 ## :rocket: Tecnologias utilizadas no projeto
 
@@ -24,27 +24,12 @@ As tecnologias utilizadas no projeto foram:
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
-- [NPM](https://www.npmjs.com/)
-- [Nodemon](https://nodemon.io/)
 
 ## 👨🏻‍💻 Lista de ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
-- [ ] Fazer cadastro de chefs e novas receitas 
-- [ ] Diferenciar entre chefs e usuários comuns
-- [ ] Fazer busca de receitas por contexto ou tags
-- [ ] Fazer busca dos chefes
-- [ ] Inserir tags em novas receitas
-- [ ] Fazer controle administrativo
-- [ ] Favoritar receitas e chefs
-- [ ] Receber email de novos usuários cadastrados
-- [ ] Fazer paginação das receitas e usuários
-- [ ] Listar chefes na aplicação
-- [ ] Subir aplicação na vercel
+- Sem melhorias no momento
 
 ## :package: Como utilizar o projeto
 
@@ -53,10 +38,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ```bash
 
     # Clonar o repositório
-    $ git clone git@github.com:alexvieirasj/foodfy-app.git
+    $ git clone git@github.com:alexvieirasj/local-turistico-fullstack.git
 
     # Entrar no diretório baixado
-    $ cd foodfy-app
+    $ cd local-turistico-fullstack
 
     # Instalar as dependências        
     $ npm install 
