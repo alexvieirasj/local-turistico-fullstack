@@ -126,11 +126,10 @@ li:not(:nth-child(3)) p:last-of-type {
 }
 
 footer {
-  
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 6px; /* espaço entre texto e imagem */
+  gap: 6px;
 }
 
 footer img {
